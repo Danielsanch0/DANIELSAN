@@ -1,0 +1,40 @@
+body {
+   font-family: Arial, sans-serif;
+   margin: 20px;
+}
+header {
+   text-align: center;
+   background-color: #333;
+   color: #cd2828;
+   padding: 10px;
+}
+h1 {
+   font-size: 36px;
+}
+nav {
+   text-align: center;
+   background-color: #555;
+   padding: 10px;
+}
+nav a {
+   text-decoration: none;
+   color: #fff;
+   margin: 0 15px;
+}
+.container {
+   max-width: 900px;
+   margin: 0 auto;
+   padding: 50px;
+}
+footer {
+   text-align: center;
+   background-color: #333;
+   color: #fff;
+   padding: 10px;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+}
+.titu {
+   background-color: #555;
+}
